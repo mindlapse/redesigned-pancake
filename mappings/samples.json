@@ -5,6 +5,6 @@
     },
     "response": {
         "status": 200,
-        "body": "More content\n"
+        "body": "Test passed\n"
     }
 }
