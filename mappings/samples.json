@@ -1,4 +1,4 @@
-{
+[{
     "request": {
         "method": "GET",
         "url": "/api/mytest"
@@ -7,4 +7,16 @@
         "status": 200,
         "body": "Congratulations :) Your wiremock server is up and running.\n"
     }
+},
+
+{
+    "request": {
+        "method": "GET",
+        "url": "/api/ping"
+    },
+    "response": {
+        "status": 200,
+        "body": "pong\n"
+    }
 }
+]
