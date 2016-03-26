@@ -5,6 +5,6 @@
     },
     "response": {
         "status": 200,
-        "body": "Your wiremock server is online :)\n"
+        "body": "Hello, this is your wiremock server speaking :)\n"
     }
 }
