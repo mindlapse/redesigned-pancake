@@ -5,6 +5,6 @@
     },
     "response": {
         "status": 200,
-        "body": "Test passed :)\n"
+        "body": "Up and running :)\n"
     }
 }
