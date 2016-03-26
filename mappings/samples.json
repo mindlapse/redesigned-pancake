@@ -5,6 +5,6 @@
     },
     "response": {
         "status": 200,
-        "body": "Up and running :)\n"
+        "body": "Wiremock is up and running :)\n"
     }
 }
